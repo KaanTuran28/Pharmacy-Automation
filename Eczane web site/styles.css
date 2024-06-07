@@ -1,0 +1,158 @@
+/* Genel Stil */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #e8f5e9; /* Hafif yeşil arka plan */
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Başlık Stil */
+header {
+    background: #004d40; /* Koyu yeşil */
+    color: #fff;
+    padding-top: 30px;
+    min-height: 70px;
+    border-bottom: #00796b 3px solid; /* Orta yeşil */
+}
+
+header h1 {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+/* Ana Konteyner Stil */
+.main-container {
+    display: flex;
+}
+
+/* Navigasyon Stil */
+nav {
+    width: 15%; /* Daha küçük genişlik */
+    background: #00796b; /* Orta yeşil */
+    color: #fff;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    top: 0;
+    left: 0;
+    padding-top: 70px; /* header için yer bırakma */
+}
+
+.menu-container {
+    padding: 20px;
+}
+
+nav h2 {
+    text-align: center;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+nav ul.menu {
+    padding: 0;
+    list-style: none;
+    text-align: left; /* Yazıları sola yasla */
+}
+
+nav ul.menu li {
+    margin: 15px 0;
+}
+
+nav ul.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul.menu li a:hover {
+    text-decoration: underline;
+    color: #ff0000; /* Kırmızı renk */
+}
+
+/* Ana İçerik Stil */
+.content-container {
+    margin-left: 17%; /* Daha küçük genişlik için ayarlandı */
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.content-container section {
+    flex: 1 1 calc(25% - 20px); /* Her bölümün genişliği %25 olacak şekilde ayarlandı ve aralarındaki boşlukları da dikkate alınacak şekilde ayarlandı */
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+    background: #ffffff; /* Beyaz arka plan */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.content-container section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 10px;
+    border-radius: 10px; /* Köşeleri yuvarlatma */
+}
+
+/* Bağlantıları yatayda hizalama */
+.content-container section a {
+    display: inline-block;
+    margin-right: 10px; /* Bağlantılar arasındaki boşluk */
+    margin-top: 10px; /* İstenilen boşluk */
+    text-decoration: none; /* Bağlantı altı çizgisini kaldır */
+    color: #018172; /* Bağlantı rengi */
+}
+
+/* Bağlantıların altındaki çizgiyi kaldırma */
+.content-container section a:hover {
+    text-decoration: none;
+}
+
+
+/* Fiyat Etiketi Stili */
+.content-container section p {
+    margin: 10px 0;
+    position: relative; /* Mutlak pozisyonlama için */
+}
+
+.content-container section p strong {
+    display: inline-block; /* Blok seviyesi öğe olarak */
+    width: 60px; /* Sabit bir genişlik */
+    font-weight: normal; /* Fiyat etiketini kalın yapmak istemediğimizden normal kalınlıkta ayarlayalım */
+}
+
+/* Fiyat Etiketi için Mutlak Pozisyonlama */
+.content-container section p strong::after {
+    content: ":";
+    position: absolute; /* Mutlak pozisyonlama */
+    top: 0;
+    right: 0;
+}
+
+/* Hover Efekti */
+.content-container section:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Stil */
+footer {
+    background: #004d40; /* Koyu yeşil */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    bottom: 0;
+    width: 100%;
+    
+}
+
