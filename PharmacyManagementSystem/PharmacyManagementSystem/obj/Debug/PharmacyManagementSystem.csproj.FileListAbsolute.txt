@@ -1,0 +1,121 @@
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojAssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmAdminstrator.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmLogin.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Dashbord.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_AddUser.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_ViewUser.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Profile.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmPharmacist.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_Dashbord.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_ViewMedicines.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_MedicineValidityCheck.resources
+C:\Users\rabia\OneDrive\Masaüstü\PharmacyManagementSystem\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_SellMedicine.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_AddUser.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Profile.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_ViewUser.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmLogin.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmAdminstrator.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmPharmacist.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_MedicineValidityCheck.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_ViewMedicines.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\Kaan\Desktop\PharmacyManagementSystem-master\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_SellMedicine.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_AddUser.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_Profile.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdministratorUC.UC_ViewUser.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmLogin.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmAdminstrator.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.FrmPharmacist.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_AddMedicine.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_MedicineValidityCheck.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_SellMedicine.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_UpdateMedicine.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.PharmacistUC.UC_P_ViewMedicines.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\QRCoder.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Pharmacy.3F0D6835.Up2Date
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.barcodes.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.commons.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.forms.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.io.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.kernel.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.layout.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.pdfa.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.pdfua.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.sign.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.svg.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.barcodes.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.commons.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.forms.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.io.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.kernel.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.layout.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.pdfa.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.pdfua.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.sign.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itext.svg.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\itextsharp.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kaan\Desktop\OKUL\Görsel Programlama\Eczane\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.ValueTuple.xml
